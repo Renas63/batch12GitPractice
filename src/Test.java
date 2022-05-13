@@ -13,14 +13,12 @@ public class Test {
         System.out.println("Go Bears!");
         System.out.println("packers");
         System.out.println("");
-        //
-        //////
-        //////
+       
 
         System.out.println("toni practice");
         String str = "Successfully completed java and Started Selenium";
         System.out.println("");
-        //
+       
         System.out.println("Automation");
         //missing something
 
