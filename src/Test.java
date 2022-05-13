@@ -9,6 +9,7 @@ public class Test {
         System.out.println("4th practice");
 
         String name = ("Andrii");
+        System.out.println("bears");
 
         // update
     }
