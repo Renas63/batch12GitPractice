@@ -12,7 +12,9 @@ public class Test {
         System.out.println("bears");
         System.out.println("Go Bears!");
 
+        String str = "i need help";
         System.out.println("toni practice");
+
 
 
         // updated this java class
