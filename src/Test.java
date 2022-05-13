@@ -12,6 +12,9 @@ public class Test {
         System.out.println("bears");
         System.out.println("Go Bears!");
 
+        System.out.println("toni practice");
+
+
         // updated this java class
     }
 }
