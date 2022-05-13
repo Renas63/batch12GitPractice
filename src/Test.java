@@ -4,7 +4,5 @@ public class Test {
         System.out.println("This is batch12 2nd practice");
 
         System.out.println("Hello");
-        System.out.println("HI");
-        System.out.println("HIIIII");
     }
 }
