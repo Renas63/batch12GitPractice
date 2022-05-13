@@ -7,7 +7,7 @@ public class Test {
         System.out.println("3rd practice");
         System.out.println("Ainur");
         System.out.println("tHIS is an updated code");
-        System.out.println("This is for push");
+        System.out.println("This is for pus2h");
 
     }
 }
