@@ -10,6 +10,7 @@ public class Test {
 
         String name = ("Andrii");
         System.out.println("bears");
+        System.out.println("Go Bears!");
 
         // update
     }
