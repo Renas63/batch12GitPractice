@@ -11,6 +11,14 @@ public class Test {
         System.out.println("test 4");
         System.out.println("4th practice");
         String name = ("Andrii");
+
         int birth_year =1991;
+
+        System.out.println("bears");
+        System.out.println("Go Bears!");
+        System.out.println("packers");
+        //
+
+
     }
 }
