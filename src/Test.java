@@ -4,6 +4,6 @@ public class Test {
         System.out.println("This is batch12 2nd practice");
         System.out.println("3rd practice");
         System.out.println("Branch");
-        System.out.println("Practice");
+        System.out.println("Burulai");
     }
 }
