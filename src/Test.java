@@ -5,7 +5,7 @@ public class Test {
         System.out.println("3rd practice");
         System.out.println("Nuradil");
         System.out.println("task for 7 min");
-        System.out.println("another change for pushing the code");
+        System.out.println("another chantgregergergerge for pushing the coderggrgrgrt");
 
 
 
