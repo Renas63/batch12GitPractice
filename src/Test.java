@@ -18,6 +18,7 @@ public class Test {
         System.out.println("Go Bears!");
         System.out.println("packers");
         System.out.println("");
+        System.out.println("Gulya");
         
 
         System.out.println("toni practice");
@@ -25,16 +26,7 @@ public class Test {
         System.out.println("");
 
         System.out.println(" Automation ");
-        //missing something
-        
-     
 
-
-
-
-
-
-        // updated this java class
 
      
     }
