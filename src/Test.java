@@ -8,6 +8,7 @@ public class Test {
         System.out.println("test 4");
         System.out.println("4th practice");
 
+        System.out.println("changes"
         String name = ("Andrii");
         System.out.println("bears");
         System.out.println("Go Bears!");
@@ -33,7 +34,6 @@ public class Test {
 
         // updated this java class
 
-      
-
+     
     }
 }
