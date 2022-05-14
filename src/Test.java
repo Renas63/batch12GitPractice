@@ -13,6 +13,7 @@ public class Test {
 
 
         System.out.println("changes");
+
         System.out.println("bears");
         System.out.println("Go Bears!");
         System.out.println("packers");
@@ -25,16 +26,7 @@ public class Test {
         System.out.println("");
 
         System.out.println(" Automation ");
-        //missing something
-        
-     
 
-
-
-
-
-
-        // updated this java class
 
      
     }
