@@ -9,10 +9,12 @@ public class Test {
         System.out.println("3rd practice");
         System.out.println("test 4");
         System.out.println("4th practice");
+        System.out.println("hello");
+
         System.out.println("sdjfsdsd");
 
 
-        System.out.println("changes"
+        System.out.println("changes");
         String name = ("Andrii");
         System.out.println("bears");
         System.out.println("Go Bears!");
@@ -26,6 +28,11 @@ public class Test {
 
         System.out.println(" Automation ");
         //missing something
+
+        System.out.println("blablabl");
+        System.out.println("amazon.com");
+
+        System.out.println("hi");
         
      
 
@@ -37,5 +44,6 @@ public class Test {
         // updated this java class
 
      
+
     }
 }
