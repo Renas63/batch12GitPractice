@@ -15,8 +15,6 @@ public class Test {
         System.out.println("packers");
         System.out.println("");
         
-      
-       
 
         System.out.println("toni practice");
         String str = "Successfully completed java and Started Selenium";
