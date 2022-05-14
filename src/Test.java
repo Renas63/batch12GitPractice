@@ -12,12 +12,12 @@ public class Test {
         System.out.println("sdjfsdsd");
 
 
-        System.out.println("changes"
-        String name = ("Andrii");
+        System.out.println("changes");
         System.out.println("bears");
         System.out.println("Go Bears!");
         System.out.println("packers");
         System.out.println("");
+        System.out.println("Gulya");
         
 
         System.out.println("toni practice");
