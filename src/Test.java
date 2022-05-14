@@ -16,6 +16,7 @@ public class Test {
         String name = ("Andrii");
         System.out.println("bears");
         System.out.println("Go Bears!");
+<<<<<<< Updated upstream
         System.out.println("packers");
         System.out.println("");
         
@@ -25,6 +26,7 @@ public class Test {
         System.out.println("");
 
         System.out.println(" Automation ");
+        System.out.println("My 100000000th attempt!!!!!!((((((");
         //missing something
         
      
@@ -37,5 +39,13 @@ public class Test {
         // updated this java class
 
      
+=======
+
+        System.out.println("  My 100th attempt :(   ");
+        //////
+        System.out.println("git is sooo compex");
+
+      
+>>>>>>> Stashed changes
     }
 }
