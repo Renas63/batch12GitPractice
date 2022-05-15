@@ -29,13 +29,16 @@ public class Test {
         System.out.println("toni practice");
         String str = "Successfully completed java and Started Selenium";
         System.out.println("");
-
         System.out.println(" Automation ");
         //missing something
+
 
         System.out.println("Berkay is trying ! ");
         System.out.println("Laura - Lucian Thanks ! ");
         System.out.println("Test Again");
+
+        System.out.println("got a ticket again");
+
 
     }
 }
