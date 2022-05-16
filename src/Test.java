@@ -2,14 +2,12 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("This is batch12 practice");
         System.out.println("This is batch12 2nd practice");
-
-        System.out.println("Hi guys!");
-        System.out.println("helllllllooooo :) ");
-        System.out.println("Something from elif");
         System.out.println("3rd practice");
-        System.out.println("test 4");
-        System.out.println("4th practice");
-        System.out.println("sdjfsdsd");
+        System.out.println("https://www.facebook.com/");
+        System.out.println("https://stackoverflow.com/");
+        System.out.println("https://codingbat.com/java");
+        System.out.println("https://github.com/");
+
 
 
         System.out.println("changes");
@@ -30,13 +28,11 @@ public class Test {
         System.out.println("I hope I will get how GitHub works");
      
 
+        System.out.println("Please work on your branch first and push it to main later.");
 
 
 
 
 
-        // updated this java class
-
-     
     }
 }
