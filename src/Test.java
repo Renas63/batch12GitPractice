@@ -8,7 +8,6 @@ public class Test {
         System.out.println("https://codingbat.com/java");
         System.out.println("https://github.com/");
 
-        System.out.println("Someone messed the main branch so I am adding this Test2 class again.");
         System.out.println("Please work on your branch first and push it to main later.");
 
 
