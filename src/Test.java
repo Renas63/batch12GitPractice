@@ -1,18 +1,9 @@
-
-
 public class Test {
     public static void main(String[] args) {
         System.out.println("This is batch12 practice");
         System.out.println("This is batch12 2nd practice");
-
-        System.out.println("This is Me");
-        System.out.println("Another Day");
-
-
-        System.out.println("Hi guys!");
-        System.out.println("helllllllooooo :) ");
-        System.out.println("Something from elif");
         System.out.println("3rd practice");
+
         System.out.println("test 4");
         System.out.println("4th practice");
         System.out.println("sdjfsdsd");
@@ -40,5 +31,8 @@ public class Test {
         System.out.println("got a ticket again");
 
 
+
+        System.out.println("https://www.facebook.com/");
+      
     }
 }
