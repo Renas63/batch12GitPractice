@@ -36,6 +36,8 @@ public class Test {
 
         System.out.println("Hello, Aigul is here");
 
+        System.out.println("Second try");
+
 
 
 
