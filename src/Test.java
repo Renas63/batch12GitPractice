@@ -3,12 +3,14 @@ public class Test {
         System.out.println("This is batch12 practice");
         System.out.println("This is batch12 2nd practice");
         System.out.println("3rd practice");
+        System.out.println("Vitaliy");
 
 
         System.out.println("https://www.facebook.com/");
         System.out.println("https://stackoverflow.com/");
         System.out.println("https://codingbat.com/java");
         System.out.println("https://github.com/");
+
 
 
 
@@ -34,6 +36,20 @@ public class Test {
 
         System.out.println("First try");
         System.out.println("practice");
+
+        System.out.println("Hey Gladys is here testing");
+
+        System.out.println("Gladys second update");
+
+
+        System.out.println("Elaman first practice");
+        System.out.println("Git second practice");
+        System.out.println("need more GIT practice");
+
+        System.out.println("system.out.println");
+
+
+
 
 
 
