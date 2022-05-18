@@ -42,6 +42,8 @@ public class Test {
 
 
         System.out.println("Elaman first practice");
+        System.out.println("Git second practice");
+        System.out.println("need more GIT practice");
 
 
 
