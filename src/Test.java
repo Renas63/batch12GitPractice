@@ -31,12 +31,12 @@ public class Test {
         System.out.println("bears");
         System.out.println("Go Bears!");
         System.out.println("packers");
-        System.out.println("");
+
         
 
         System.out.println("toni practice");
         String str = "Successfully completed java and Started Selenium";
-        System.out.println("");
+
 
         System.out.println(" Automation ");
         //missing something
@@ -48,6 +48,9 @@ public class Test {
 
         System.out.println("First try");
 
+
+        System.out.println("Yuliya 1234");
+
         System.out.println("Hey Gladys is here testing");
 
         System.out.println("Gladys second update");
@@ -58,7 +61,6 @@ public class Test {
         System.out.println("need more GIT practice");
 
         System.out.println("SoftSkill");
-
 
 
 
