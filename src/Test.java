@@ -40,6 +40,7 @@ public class Test {
         System.out.println("Please work on your branch first and push it to main later.");
 
         System.out.println("First try");
+        System.out.println("Hey! Marjana");
 
         System.out.println("Hey Gladys is here testing");
 
@@ -56,6 +57,7 @@ public class Test {
 
 
 
+        System.out.println("second try");
 
 
     }
