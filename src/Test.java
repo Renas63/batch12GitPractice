@@ -17,12 +17,12 @@ public class Test {
         System.out.println("bears");
         System.out.println("Go Bears!");
         System.out.println("packers");
-        System.out.println("");
+
         
 
         System.out.println("toni practice");
         String str = "Successfully completed java and Started Selenium";
-        System.out.println("");
+
 
         System.out.println(" Automation ");
         //missing something
@@ -33,8 +33,8 @@ public class Test {
         System.out.println("Please work on your branch first and push it to main later.");
 
         System.out.println("First try");
-        System.out.println("Hi,This is yuliya");
 
+        System.out.println("Yuliya");
 
 
 
