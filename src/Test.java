@@ -1,8 +1,20 @@
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+
 public class Test {
     public static void main(String[] args) {
         System.out.println("This is batch12 practice");
         System.out.println("This is batch12 2nd practice");
         System.out.println("3rd practice");
+
+        System.out.println("Ainur");
+        System.out.println("tHIS is an updated code");
+        System.out.println("This is for pus2h");
+
+
+        System.out.println("test 4");
+        System.out.println("4th practice");
+        System.out.println("It's me");
+
         System.out.println("Vitaliy");
 
 
@@ -19,12 +31,12 @@ public class Test {
         System.out.println("bears");
         System.out.println("Go Bears!");
         System.out.println("packers");
-        System.out.println("");
+
         
 
         System.out.println("toni practice");
         String str = "Successfully completed java and Started Selenium";
-        System.out.println("");
+
 
         System.out.println(" Automation ");
         //missing something
@@ -37,6 +49,9 @@ public class Test {
         System.out.println("First try");
         System.out.println("practice");
 
+
+        System.out.println("Yuliya 1234");
+
         System.out.println("Hey Gladys is here testing");
 
         System.out.println("Gladys second update");
@@ -46,7 +61,12 @@ public class Test {
         System.out.println("Git second practice");
         System.out.println("need more GIT practice");
 
+
         System.out.println("system.out.println");
+
+        System.out.println("SoftSkill");
+        System.out.println("push");
+
 
 
 
