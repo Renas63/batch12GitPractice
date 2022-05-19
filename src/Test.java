@@ -47,6 +47,7 @@ public class Test {
         System.out.println("Please work on your branch first and push it to main later.");
 
         System.out.println("First try");
+        System.out.println("practice");
 
 
         System.out.println("Yuliya 1234");
@@ -60,7 +61,12 @@ public class Test {
         System.out.println("Git second practice");
         System.out.println("need more GIT practice");
 
+
+        System.out.println("system.out.println");
+
         System.out.println("SoftSkill");
+        System.out.println("push");
+
 
 
 
