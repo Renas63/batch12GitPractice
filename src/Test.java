@@ -34,9 +34,7 @@ public class Test {
 
         System.out.println("First try");
 
-        System.out.println("Yuliya");
-
-
+        System.out.println("Yuliya 3");
 
 
     }
