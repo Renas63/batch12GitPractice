@@ -45,7 +45,7 @@ public class Test {
         System.out.println("Git second practice");
         System.out.println("need more GIT practice");
 
-
+        System.out.println("Is everyones' test.java merging with others?");
 
 
 
