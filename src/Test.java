@@ -7,6 +7,7 @@ public class Test {
 <<<<<<< HEAD
         System.out.println("test 4");
         System.out.println("4th practice");
+<<<<<<< Updated upstream
         System.out.println("sdjfsdsd");
 
 
@@ -29,6 +30,12 @@ public class Test {
         System.out.println("Laura - Lucian Thanks ! ");
         System.out.println("Test Again");
         System.out.println("better and more practice");
+=======
+        System.out.println("Toni1");
+        System.out.println("Roxana");
+        System.out.println("Almost sunday funday");
+>>>>>>> Stashed changes
+
 
 =======
         System.out.println("https://www.facebook.com/");
