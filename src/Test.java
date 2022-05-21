@@ -5,11 +5,10 @@ public class Test {
         System.out.println("This is batch12 practice");
         System.out.println("This is batch12 2nd practice");
         System.out.println("3rd practice");
-<<<<<<< HEAD
-<<<<<<< HEAD
+
         System.out.println("test 4");
         System.out.println("4th practice");
-<<<<<<< Updated upstream
+
         System.out.println("sdjfsdsd");
 
 
@@ -32,17 +31,17 @@ public class Test {
         System.out.println("Laura - Lucian Thanks ! ");
         System.out.println("Test Again");
         System.out.println("better and more practice");
-=======
+
         System.out.println("Toni1");
         System.out.println("Roxana");
         System.out.println("Almost sunday funday");
->>>>>>> Stashed changes
 
 
-=======
+
+
         System.out.println("https://www.facebook.com/");
->>>>>>> main
-=======
+
+
 
         System.out.println("Ainur");
         System.out.println("tHIS is an updated code");
@@ -73,7 +72,11 @@ public class Test {
         
 
         System.out.println("toni practice");
+            System.out.println("Successfully completed java and Started Selenium");
+        System.out.println("");
+
         String str = "Successfully completed java and Started Selenium";
+
 
 
         System.out.println(" Automation ");
@@ -113,6 +116,6 @@ public class Test {
 
 
 
->>>>>>> main
+
     }
 }
