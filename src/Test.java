@@ -3,6 +3,11 @@ public class Test {
         System.out.println("This is batch12 practice");
         System.out.println("This is batch12 2nd practice");
         System.out.println("3rd practice");
+
+        System.out.println("test 4");
+        System.out.println("4th practice");
+        System.out.println("It's me");
+
         System.out.println("Vitaliy");
 
 
@@ -45,9 +50,13 @@ public class Test {
         System.out.println("Git second practice");
         System.out.println("need more GIT practice");
 
+
+        System.out.println("SoftSkill");
+
         System.out.println("Is everyones' test.java merging with others?");
 
         System.out.println("Today is 5/23/22, attempt 3");
+
 
 
 
