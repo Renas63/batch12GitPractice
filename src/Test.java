@@ -109,8 +109,13 @@ public class Test {
 
         System.out.println("See you all today for soft skills class");
         System.out.println("Late but code from Zhyldyz");
+        System.out.println("Still Zhyldyz");
 
 
+
+        System.out.println("Ainur is trying");
+        System.out.println("lets see what is gonna happen");
+        System.out.println("Just testing");
 
     }
 }
