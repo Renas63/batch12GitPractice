@@ -116,6 +116,7 @@ public class Test {
         System.out.println("Ainur is trying");
         System.out.println("lets see what is gonna happen");
         System.out.println("Zhyldyz is practicing");
+        System.out.println("Still practicing");
 
     }
 }
