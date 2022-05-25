@@ -114,5 +114,7 @@ public class Test {
         System.out.println("Ainur is trying");
         System.out.println("lets see what is gonna happen");
 
+        System.out.println("ready to do to the market Guys ? ok get drinks first");
+
     }
 }
