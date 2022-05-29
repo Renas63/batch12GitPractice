@@ -2,6 +2,10 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("This is batch12 practice");
         System.out.println("This is batch12 2nd practice");
+
+        System.out.println("Elena");
+        System.out.println("I can do this");
+
         System.out.println("3rd practice");
         System.out.println("lets start kahoot");
 
@@ -115,6 +119,10 @@ public class Test {
         System.out.println("lets see what is gonna happen");
 
         System.out.println("ready to do to the market Guys ? ok get drinks first");
+
+            System.out.println("Elena practice to get some file");
+        System.out.println( " 2nd try");
+
 
     }
 }
