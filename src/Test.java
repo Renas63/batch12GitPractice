@@ -5,7 +5,6 @@ public class Test {
 
         System.out.println("Something from elif");
         System.out.println("3rd practice");
-
         System.out.println("4th practice");
         System.out.println("hello world!");
 
